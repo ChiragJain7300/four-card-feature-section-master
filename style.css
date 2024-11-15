@@ -20,7 +20,7 @@ main {
   width: 100%;
   min-height: 100vh;
   background-color: var(--vlg);
-  padding-top: 40px;
+  padding-top: 20px;
   text-align: center;
 }
 .mainCont {
@@ -41,7 +41,7 @@ main {
 .text-3 {
   width: 480px;
   margin: auto;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 .gridCont {
   max-width: 1100px;
